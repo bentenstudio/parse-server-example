@@ -14,7 +14,11 @@
     "parse": "~1.8.0",
     "parse-server": "~2.2.2",
   	"underscore": "^1.8.3",
-  	"moment": "^2.12.0"
+  	"moment": "^2.12.0",
+  	"method-override": "^2.3.5",
+  	"body-parser": "^1.15.0",
+  	"cookie-parser": "^1.4.1",
+  	"parse-anywhere": "0.0.50"
   },
   "scripts": {
     "start": "node index.js"
